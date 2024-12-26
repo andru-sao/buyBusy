@@ -1,0 +1,28 @@
+.mainContainer{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.logInForm{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.logInForm input{
+    padding: 10px;
+    width: 25rem;
+    margin: 10px;
+    font-size: 18px;
+}
+
+.logInForm button{
+    height: 40px;
+    width: 10rem;
+    margin: 10px;
+    font-size: 18px;
+}

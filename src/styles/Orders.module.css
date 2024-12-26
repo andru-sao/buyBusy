@@ -1,0 +1,42 @@
+.mainContainer{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+table, th, td {
+    border: 1px solid;
+    padding: 8px;
+  }
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    margin-top: 1rem;
+    background-color: white;
+    color: black;
+    /* border-radius: 10px; */
+    
+  }
+
+.orderConatainer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    /* background-color: white; */
+    
+}
+
+.orderarea{
+  display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(45, 128, 252);
+  width: 450px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
